@@ -1,0 +1,4 @@
+int E4B_BUILD_NUMBER = @BUILD_NUMBER@;
+char const *E4B_COMMIT = "@BUILD_COMMIT@";
+char const *E4B_COMPILER = "@BUILD_COMPILER@";
+char const *E4B_BUILD_TARGET = "@BUILD_TARGET@";
